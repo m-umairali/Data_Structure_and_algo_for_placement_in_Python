@@ -1,4 +1,4 @@
-Welcome to my GitHub repository focused on mastering Data Structures and Algorithms! 📚
+## Welcome to my GitHub repository focused on mastering Data Structures and Algorithms! 📚
 
 **Description:**
 In the world of software engineering, a solid understanding of Data Structures and Algorithms is paramount. This repository is your ultimate resource to delve into these fundamental concepts, enhance your problem-solving skills, and excel in technical interviews. I am committed to covering all the essential topics, accompanied by comprehensive problem explanations and LeetCode solution links.
