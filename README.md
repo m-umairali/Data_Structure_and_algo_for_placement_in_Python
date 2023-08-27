@@ -18,6 +18,9 @@ Coding isn't just about syntax; it's about crafting logic. While many can write 
 **Connect With Me:**
 Have questions, need guidance, or want to discuss anything related to this repository? Feel free to reach out to me at umairalism@gmail.com. I'm here to help you on your journey to mastering Data Structures, Algorithms, and Problem Solving!
 
+
+## **Note**: This repository is the following of Love Babbar DSA Playlist. I have collected all the materials from Love Babbar, if you dont have time to watch the playlist, you can only revise these notes.
+
 **Practice Platforms:**
 - LeetCode: [LeetCode Profile](https://leetcode.com/YourProfile)
 - HackerRank: [HackerRank Profile](https://www.hackerrank.com/YourProfile)
