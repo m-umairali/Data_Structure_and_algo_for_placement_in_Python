@@ -26,3 +26,6 @@ Have questions, need guidance, or want to discuss anything related to this repos
 - HackerRank: [HackerRank Profile](https://www.hackerrank.com/YourProfile)
 
 Happy coding! 👩‍💻
+
+Credit: Love Babbar ❤️
+Youtube Playlist: https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
