@@ -1,4 +1,4 @@
-## Welcome to my GitHub repository focused on mastering Data Structures and Algorithms! 📚
+## Welcome to my GitHub repository focused on mastering Data Structures and Algorithms! 
 
 **Description:**
 In the world of software engineering, a solid understanding of Data Structures and Algorithms is paramount. This repository is your ultimate resource to delve into these fundamental concepts, enhance your problem-solving skills, and excel in technical interviews. I am committed to covering all the essential topics, accompanied by comprehensive problem explanations and LeetCode solution links.
@@ -19,7 +19,7 @@ Coding isn't just about syntax; it's about crafting logic. While many can write 
 Have questions, need guidance, or want to discuss anything related to this repository? Feel free to reach out to me at umairalism@gmail.com. I'm here to help you on your journey to mastering Data Structures, Algorithms, and Problem Solving!
 
 
-## **Note**: This repository is the following of Love Babbar DSA Playlist. I have collected all the materials from Love Babbar, if you dont have time to watch the playlist, you can only revise these notes.
+## **Note**: This repository is the following of MySirG DSA Playlist. I have collected all the materials from his playlist, if you dont have time to watch the playlist, you can only revise these notes.
 
 **Practice Platforms:**
 - LeetCode: [LeetCode Profile](https://leetcode.com/YourProfile)
@@ -27,5 +27,5 @@ Have questions, need guidance, or want to discuss anything related to this repos
 
 Happy coding! 👩‍💻
 
-Credit: Love Babbar ❤️
-Youtube Playlist: https://www.youtube.com/watch?v=WQoB2z67hvY&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+Credit: MySirG ❤️
+Youtube Playlist: https://youtube.com/playlist?list=PL7ersPsTyYt1HnCgrT6Up-pan4yLBpyFs&si=b3HmiCeaE0ypfhBF
